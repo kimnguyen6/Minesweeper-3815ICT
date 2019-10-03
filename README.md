@@ -1,2 +1,1 @@
-# Minesweeper-3815ICT
- 
+# 3815ICT-Minesweeper
